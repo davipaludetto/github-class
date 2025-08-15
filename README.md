@@ -1,3 +1,3 @@
-# projeto do curso git e github
+# project git e github course
 
-vamos!
+Learning how to upload the porjects!
