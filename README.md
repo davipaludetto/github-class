@@ -1,3 +1,3 @@
 # project git e github course
 
-Learning how to upload the porjects!
+Learning how to upload porjects!
